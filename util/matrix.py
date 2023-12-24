@@ -101,7 +101,7 @@ def exp(matrix):
     for i in range(len(matrix)):
         row = []
         for j in range(len(matrix[0])):
-            row.append(mat.exp(matrix[i][j]))
+            row.append(mat.eexp(matrix[i][j]))
         result.append(row)
     return result
 
