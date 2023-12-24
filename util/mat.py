@@ -1,4 +1,4 @@
-def exp(x, terms=10):
+def eexp(x, terms=10):
     result = 1.0
     factorial = 1.0
 
@@ -8,4 +8,4 @@ def exp(x, terms=10):
 
     return result
 
-e = exp(1)
+e = eexp(1)
