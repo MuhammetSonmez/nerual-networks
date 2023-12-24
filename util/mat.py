@@ -7,3 +7,5 @@ def exp(x, terms=10):
         result += (x ** i) / factorial
 
     return result
+
+e = exp(1)
