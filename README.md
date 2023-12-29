@@ -1,2 +1,2 @@
 # nerual-networks
-nerual networks with python (no library)
+nerual networks no library
