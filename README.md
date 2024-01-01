@@ -1,11 +1,6 @@
 # nerual-networks
 nerual networks no library
 
-t
-
-x_input = [[0,0,1], [1,1,1], [1,0,0]]
-y_output = transpose([[0,1,1]])
-
 <table>
   <tr>
     <th>input 1</th>
