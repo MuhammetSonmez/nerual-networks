@@ -44,4 +44,10 @@ The first of the given inputs should be the result, allowing us to update the we
     <td>1</td>
   </tr>
 </table>
-  
+
+<br>
+
+![nerualNetworks](https://github.com/MuhammetSonmez/nerual-networks/assets/127973832/b647cb30-d007-4a1d-81bc-f457eb6c3867)
+
+
+
