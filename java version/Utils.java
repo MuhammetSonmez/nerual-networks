@@ -219,18 +219,7 @@ public class Utils {
         return result;
 
     }
-    /*
-    public double[][] transpose(double[][] matrix){
-        double[][] result = new double[matrix.length][matrix[0].length];
-        for (int i = 0; i < matrix[0].length; i ++){
-            double[] row = new double[matrix.length];
-            for (int j = 0; j < matrix.length; j++){
-                row[j] = matrix[j][i];
-            }
-            result[i] = row;
-        }
-        return result;
-    }*/
+
     public double[][] transpose(double[][] matrix) {
         double[][] result = new double[matrix[0].length][matrix.length];
         for (int i = 0; i < matrix.length; i++) {
